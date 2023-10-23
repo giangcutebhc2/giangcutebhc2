@@ -31,8 +31,4 @@
 ### :writing_hand: My papers :
 
 **Conference:**
-1. SOICT 2023: The 12th International Symposium on Information and Communication Technology (SOICT 2023), December 7--8, 2023, Ho Chi Minh, Vietnam
-
-   Name: Accurate Spectrum Sensing with Improved DeepLabV3+ for 5G-LTE Signals Identification
-   
-   Link: ...
+1. Accurate Spectrum Sensing with Improved DeepLabV3+ for 5G-LTE Signals Identification. In proceedings of The 12th International Symposium on Information and Communication Technology (SOICT 2023), December 7--8, 2023, Ho Chi Minh, Vietnam
