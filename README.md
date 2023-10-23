@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Gia-Vuong Nguyen</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giangcutebhc2&label=Profile%20views&color=0e75b6&style=flat" alt="giangcutebhc2" /> </p>
+
 ---
 ### :man_technologist: About Me :
 <h3 align="left">Studying Embedded Systems and Internet of Things at HCMC University of Technology and Education, VietNam</h3>
+
 - 🌱 I’m currently researching **AI for wireless communication**
+
 - 📫 How to reach me **vuongng.cce@gmail.com**
 
 ---
