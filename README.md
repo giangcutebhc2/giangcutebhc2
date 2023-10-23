@@ -5,7 +5,7 @@
 ### :man_technologist: About Me :
 <h3 align="left">Studying Embedded Systems and Internet of Things at HCMC University of Technology and Education, VietNam</h3>
 
-- 🌱 I’m currently researching **AI for wireless communication**
+- 🌱 I’m currently researching in **AI for wireless communication**
 
 - 📫 How to reach me **vuongng.cce@gmail.com**
 
