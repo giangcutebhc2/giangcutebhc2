@@ -25,13 +25,11 @@
 ---
 ### :fire: My personal Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=giangcutebhc2&theme=dark&background=000000)](https://git.io/streak-stats)
-
-<-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giangcutebhc2&show_icons=true&theme=radical) -->
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giangcutebhc2&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ### :writing_hand: My papers :
 
 **Conference:**
-1. Accurate Spectrum Sensing with Improved DeepLabV3+ for 5G-LTE Signals Identification. In proceedings of The 12th International Symposium on Information and Communication Technology (SOICT 2023), December 7--8, 2023, Ho Chi Minh, Vietnam
+1. Accurate Spectrum Sensing with Improved DeepLabV3+ for 5G-LTE Signals Identification. In Proceedings of The 12th International Symposium on Information and Communication Technology (SOICT 2023), December 7--8, 2023, Ho Chi Minh, Vietnam
+
