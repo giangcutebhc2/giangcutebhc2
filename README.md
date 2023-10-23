@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Vuong Nguyen-gia</h1>
-<h3 align="center">Studying Embedded Systems and Internet of Things at HCMC University of Technology and Education, VietNam</h3>
+<h1 align="center">Hi 👋, I'm Gia-Vuong Nguyen</h1>
+
+<h3 align="center">Studying Embedded Systems and Internet of Things</h3>
+<h3 align="center">Department of Computer and Communications Engineering</h3>
+<h3 align="center">Faculty of Electrical and Electronic Engineering</h3>
+<h3 align="center">HCMC University of Technology and Education, VietNam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giangcutebhc2&label=Profile%20views&color=0e75b6&style=flat" alt="giangcutebhc2" /> </p>
 
-- 🌱 I’m currently learning **AI for wireless communication**
+- 🌱 I’m currently researching **AI for wireless communication**
 
 - 📫 How to reach me **vuongng.cce@gmail.com**
 
