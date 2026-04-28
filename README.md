@@ -5,7 +5,7 @@
 
 ### :man_technologist: About Me :
 
-<h3 align="left">Ph.D. Student at Sejong University, Department of Artificial Intelligence and Robotics & Department of Convergence Engineering for Intelligent Drone, South Korea</h3>
+<h3 align="left"> Integrated Master's and PhD Student at Sejong University, Department of Artificial Intelligence and Robotics & Department of Convergence Engineering for Intelligent Drone, South Korea</h3>
 
 - 🌱 I'm currently learning about **AI for wireless communication**
 - 📫 How to reach me **[vuongng.cce@gmail.com](mailto:vuongng.cce@gmail.com)**
@@ -14,7 +14,7 @@
 
 ### :mortar_board: Education :
 
-- 🎓 **Ph.D. Student** — Sejong University, Dept. of Artificial Intelligence and Robotics & Dept. of Convergence Engineering for Intelligent Drone, South Korea *(Current)*
+- 🎓 **Integrated Master's and PhD Student** — Sejong University, Dept. of Artificial Intelligence and Robotics & Dept. of Convergence Engineering for Intelligent Drone, South Korea *(Current)*
 - 🎓 **B.Eng.** — HCMC University of Technology and Education, Embedded Systems and Internet of Things, Vietnam
 
 ---
