@@ -6,7 +6,7 @@
 ### :man_technologist: About Me :
 
 <h3 align="left"> Integrated Master's and PhD Student at Sejong University, South Korea</h3>
-<h3 align="left"> Department of Artificial Intelligence and Robotics & Department of Convergence Engineering for Intelligent Drone</h3>
+<h4 align="left"> Department of Artificial Intelligence and Robotics & Department of Convergence Engineering for Intelligent Drone</h4>
 
 - 🌱 I'm currently learning about **AI for wireless communication**
 - 📫 How to reach me **[vuongng.cce@gmail.com](mailto:vuongng.cce@gmail.com)**
